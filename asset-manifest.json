@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My_Profile/static/css/main.4e63fbef.css",
+    "main.js": "/My_Profile/static/js/main.958cd09a.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/My_Profile/static/js/787.f2a0fa2f.chunk.js",
+    "static/media/Profile2.png": "/My_Profile/static/media/Profile2.d78de75cc53447cbbd16.png",
+    "static/media/Muhammad_Hashim_CV.pdf": "/My_Profile/static/media/Muhammad_Hashim_CV.fd813fc5f174ee284e16.pdf",
+    "static/media/168124125552922.jpg": "/My_Profile/static/media/168124125552922.854bc38a213fad87a521.jpg",
+    "static/media/linkedin.png": "/My_Profile/static/media/linkedin.bd873427154d19f56150.png",
+    "static/media/Instagram.png": "/My_Profile/static/media/Instagram.ec5a4efa7613c7dbaedd.png",
+    "static/media/github.png": "/My_Profile/static/media/github.8e2a9e7d53fa4340a09e.png",
+    "index.html": "/My_Profile/index.html",
+    "main.4e63fbef.css.map": "/My_Profile/static/css/main.4e63fbef.css.map",
+    "main.958cd09a.js.map": "/My_Profile/static/js/main.958cd09a.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/My_Profile/static/js/787.f2a0fa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e63fbef.css",
+    "static/js/main.958cd09a.js"
+  ]
+}
