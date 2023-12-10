@@ -1,0 +1,41 @@
+.footer {
+  padding-top: 10%;
+  padding-bottom: 2%;
+  padding-left: 10%;
+  padding-right: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  color: black;
+}
+.footer h1 span
+{
+    background-color: none;
+}
+#bar
+{
+    height: 1px;
+    background-color: black;
+    width: 100%;
+}
+.gettouch {
+  display: flex;
+  justify-content: space-evenly;
+}
+.gettouch a {
+  font-size:medium;
+  text-decoration: none;
+  color: black;
+  padding: 10%;
+}
+.gettouch a:hover
+{
+    opacity: 1;
+    color: #71c4ef;
+}
+.gettouch i
+{
+    font-size: 25px;
+}
